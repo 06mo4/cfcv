@@ -1,0 +1,70 @@
+body {
+    background-color: #eee;
+
+}
+
+.k {
+    background-color: white;
+
+
+}
+
+hr {
+    color: black !important;
+
+}
+
+iframe {
+    position: absolute;
+    right: 0;
+
+
+}
+
+.i {
+    height: 350px;
+    overflow: hidden;
+
+
+}
+
+.ll {
+    margin-bottom: 30px;
+}
+
+.mm {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ss {
+    text-align: start;
+    margin-top: 10px;
+
+}
+
+.undernav {
+    background-image: url("../images/im/126903699_140150997881964_6679358320088218493_n.jpg");
+    height: 660px;
+    background-position: center;
+    margin-top: 10px;
+    background-attachment: fixed;
+
+}
+
+.footer {
+    height: 50px;
+}
+
+.form-control {
+    font-size: 17px;
+
+}
+
+.form-control:hover {
+    border: 1px solid red;
+}
+
+.form-control:focus {
+    border: 1px solid rgb(255, 68, 68);
+}
